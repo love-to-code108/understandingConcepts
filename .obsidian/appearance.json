@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "accentColor": "",
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "baseFontSize": 17
+  "baseFontSize": 18
 }
