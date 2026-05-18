@@ -95,3 +95,5 @@ Prisma isn't just for moving rows around; it can do math for you directly in the
 ```
     
 - **`aggregate()`**: Lets you calculate sums, averages, minimums, or maximums. For example, if you wanted to find the total revenue from all orders, you could sum up the `total_amount` field.
+
+**The real magic:** All of these methods allow you to pass in options like `include`, `select`, and `where` so you can pull in related tables (like getting an `Order` and _including_ all of its `OrderItems` at the exact same time) without having to write separate queries!
