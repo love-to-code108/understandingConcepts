@@ -4,5 +4,8 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "baseFontSize": 18
+  "baseFontSize": 20,
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Adwaita Sans"
 }
